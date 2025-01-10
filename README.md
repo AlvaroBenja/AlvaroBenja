@@ -27,3 +27,34 @@ I am a Computer Engineering student currently halfway through my degree. I am pa
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
+
+  <h4> Databases </h4>
+<span>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+
+  
+<h4> IDE </h4>
+<span>
+<img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Stats </b>
+
+[![](https://github-readme-stats.vercel.app/api?username=AlvaroBenja&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/AlvaroBenja)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=AlvaroBenja&theme=material-palenight)](https://github.com/AlvaroBenja)
+</div>
+
+---
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+------
+
+
+
