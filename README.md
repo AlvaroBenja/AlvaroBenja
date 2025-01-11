@@ -56,7 +56,14 @@ I am a Computer Engineering student currently halfway through my degree. I am pa
     alt="example" />
 </p>
 
-------
 
+<p align="center"> 
+  <div align="center">Visitor count</div>
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/AlvaroBenja/count.svg"/>
+  </div> 
+</p>
+
+------
 
 
