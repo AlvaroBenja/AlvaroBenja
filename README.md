@@ -15,7 +15,7 @@ I am a Computer Engineering student currently halfway through my degree. I am pa
 - ⚡ Fun fact: Outside of technology, I love 📖 reading science books, 🎮 playing video games, and 🎵 listening to music.
 - 📝 I have a strong interest in data science and artificial intelligence.
 - 🌟 My philosophy: Learning never ends, and I’m always ready to share my knowledge and help where I can.
-- 📫 How to reach me: abhv0904@gmail.com
+- 📫 How to reach me: abhv090420@gmail.com
 
 <h2> My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
