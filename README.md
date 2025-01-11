@@ -47,6 +47,12 @@ I am a Computer Engineering student currently halfway through my degree. I am pa
 [![](https://github-readme-streak-stats.herokuapp.com/?user=AlvaroBenja&theme=material-palenight)](https://github.com/AlvaroBenja)
 </div>
 
+<p align="center">
+    <img style="height:10rem;" src="https://github-readme-stats.vercel.app/api?username=AlvaroBenja&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
+    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=AlvaroBenja&theme=radical&show_icons=true&border=e4e2e2" />
+</p>
+
+
 ---
 
 <p align="center">
